@@ -1,1 +1,1 @@
-# Big-Data-Science - Etherum-Analysis
+# This page documents my findings on Etherum using Big data science.  I have applied the techniques of Big Data Processing to analyse the full set of transactions which have occurred on the Ethereum network. I have created several MapReduce programs to perform multiple types of computation. 
